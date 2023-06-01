@@ -28,3 +28,4 @@ Sub DeleteDuplicates()
         End If
     Next i
 End Sub
+' 规则：从最上方开始删除重复，并保留唯一项，工作表数据列为J列
